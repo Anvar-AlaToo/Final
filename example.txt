@@ -1,0 +1,3 @@
+Изменение в ветке one.
+git add example.txt
+git commit -m "Изменение в ветке one."
